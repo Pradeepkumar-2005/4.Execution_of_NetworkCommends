@@ -26,14 +26,11 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 ## PROGRAM
-``` 
-from scapy.all import *
 
-target = "www.google.com"
-result, _ = traceroute(target, maxttl=32)
-print(result)
-```
+![Screenshot 2024-05-19 191146](https://github.com/Pradeepkumar-2005/4.Execution_of_NetworkCommends/assets/147474038/2729beb8-271a-4aaa-834d-8a8330c30648)
+
 ## Output
+
 ![Screenshot 2024-05-19 190955](https://github.com/Pradeepkumar-2005/4.Execution_of_NetworkCommends/assets/147474038/906b30eb-b2d9-41aa-af63-5c2f7a8a2e0b)
 
 
